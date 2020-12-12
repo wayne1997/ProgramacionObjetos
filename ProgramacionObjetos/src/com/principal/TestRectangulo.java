@@ -1,7 +1,7 @@
 package com.principal;
 import com.clases.*;
 public class TestRectangulo {
-
+/*
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Rectangulo rect = new Rectangulo(); 
@@ -12,5 +12,5 @@ public class TestRectangulo {
 		System.out.println("Area: " + area + " metros");
 		System.out.print("Perimetro: " + perimetro + " metros");
 	}
-
+*/
 }
